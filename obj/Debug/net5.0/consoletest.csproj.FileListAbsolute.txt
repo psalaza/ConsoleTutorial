@@ -1,0 +1,16 @@
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.exe
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.deps.json
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.runtimeconfig.json
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.runtimeconfig.dev.json
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.dll
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\ref\consoletest.dll
+C:\temp\DotNet\consoletest\bin\Debug\net5.0\consoletest.pdb
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.csprojAssemblyReference.cache
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.AssemblyInfoInputs.cache
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.AssemblyInfo.cs
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.csproj.CoreCompileInputs.cache
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.dll
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\ref\consoletest.dll
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.pdb
+C:\temp\DotNet\consoletest\obj\Debug\net5.0\consoletest.genruntimeconfig.cache
